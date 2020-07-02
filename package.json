@@ -1,8 +1,9 @@
 {
   "name": "timecat-admin-vue",
   "version": "2.0.0",
-  "description": "a management system for study only",
-  "author": "timecat <381612175@qq.com>",
+  "description": "时光猫管理端",
+  "author": "timecat <761516186@qq.com>",
+  "homepage": "https://LinXueyuanStdio.github.io/TimeCat-Vue",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -11,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "hydrogen-js-sdk": "^1.7.0",
+    "hydrogen-js-sdk": "^2.2.4",
     "iview": "^2.5.1",
     "jquery": "^3.2.1",
     "less": "^2.7.2",
